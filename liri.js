@@ -1,5 +1,5 @@
 //fs is a core Node package for reading and writing files
-var fs = require("dotenv").config();
+var fs = require("fs").config();
 // This block of code will read from the .... file
 fs.readFile("random.txt", "utf8", function(error,data){
     if (error) {
