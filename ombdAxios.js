@@ -1,6 +1,6 @@
 var axious = require("axios");
 
-axious.get("").then(
+axious.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp").then(
   function(response){
         console.log("" + response.data.imdbRating);
   })
