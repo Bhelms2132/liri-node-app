@@ -79,5 +79,32 @@ request(queryUrl, function(error, response, body) {
     }
   }
 });
-}
+};
+function spotifyThisSong(parameter) {
+
+  var searchTrack;
+  if (parameter === "") {
+    searchTrack = "Feathered Indians";
+  } else {
+    searchTrack = parameter;
+  }
+
+  spotify.search({
+    type: "track",
+    query: searchTrack
+  }, function(error, data) {
+    if (error) {
+      logResult("Error occurred: " + error);
+      return;
+    } else {
+      logResult("\n---------------------------------------------------\n");
+      logResult("Artist: " + data.tracks.items[0].artists[0].name);
+      logResult("Song: " + data.tracks.items[0].name);
+      logResult("Preview: " + data.tracks.items[3].preview_url);
+      logResult("Album: " + data.tracks.items[0].album.name);
+      logResult("\n---------------------------------------------------\n");
+      
+    }
+  });
+};
 userCommand();
