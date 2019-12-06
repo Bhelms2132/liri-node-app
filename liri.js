@@ -81,14 +81,12 @@ request(queryUrl, function(error, response, body) {
 });
 };
 function spotifyThisSong(parameter) {
-
   var searchTrack;
-  if (parameter === "") {
+   if (parameter === "") {
     searchTrack = "Feathered Indians";
   } else {
     searchTrack = parameter;
   }
-
   spotify.search({
     type: "track",
     query: searchTrack
@@ -103,8 +101,65 @@ function spotifyThisSong(parameter) {
       logResult("Preview: " + data.tracks.items[3].preview_url);
       logResult("Album: " + data.tracks.items[0].album.name);
       logResult("\n---------------------------------------------------\n");
-      
     }
   });
+};
+function movieThis(parameter) {
+  var findMovie;
+  if (parameter === "") {
+    findMovie = "Mr Nobody";
+  } else {
+    findMovie = parameter;
+  };
+
+  var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
+  
+  request(queryUrl, function(err, res, body) {
+  	var bodyOf = JSON.parse(body);
+    if (!err && res.statusCode === 200) {
+      logResult("\n---------------------------------------------------\n");
+      logResult("Title: " + bodyOf.Title);
+      logResult("Release Year: " + bodyOf.Year);
+      logResult("IMDB Rating: " + bodyOf.imdbRating);
+      logResult("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value); 
+      logResult("Country: " + bodyOf.Country);
+      logResult("Language: " + bodyOf.Language);
+      logResult("Plot: " + bodyOf.Plot);
+      logResult("Actors: " + bodyOf.Actors);
+      logResult("\n---------------------------------------------------\n");
+    }
+  });
+};
+function getRandom() {
+ fs.readFile('random.txt', "utf8", function(error, data){
+    if (error) {
+        return logResult(dateTime + error);
+      }
+    var dataArr = data.split(",");
+     if (dataArr[0] === "spotify-this-song") {
+      var songcheck = dataArr[1].trim().slice(1, -1);
+      spotSong(songcheck);
+    }else if (dataArr[0] === "concert-this") { 
+      if (dataArr[1].charAt(1) === "'") {
+      	var dLength = dataArr[1].length - 1;
+      	var data = dataArr[1].substring(2,dLength);
+      	console.log(data);
+      	bandsInTown(data);
+      }else{
+	      var bandName = dataArr[1].trim();
+	      console.log(bandName);
+	      bandsInTown(bandName);
+	  }
+  	}else if(dataArr[0] === "movie-this"){
+      var movie_name = dataArr[1].trim().slice(1, -1);
+      movieInfo(movie_name);
+    } 
+    });
+};
+function logResult(dataToLog) {
+    console.log(dataToLog);
+    fs.appendFile('log.txt', dataToLog + '\n', function(err) {
+		if (err) return logResult('Error logging data to file: ' + err);	
+	});
 };
 userCommand();
