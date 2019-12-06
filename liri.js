@@ -10,57 +10,74 @@ var moment = require("moment");
 //require node-spotify-api
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
+var request = require("request");
 
 
 
 
-// This block of code will read from the .... file
-fs.readFile("random.txt", "utf8", function(error,data){
-    if (error) {
-        return console.log(error);
-    }
-    //This will print the contents of data
-    console.log(data);
-    //Then spilt it by commas for read ability
-    var dataArr = data.split(",");
-    //Then re-display the content as an array for later use.
-    console.log(dataArr);
-});
+var userInput = process.argv[2];
+var parameter = process.argv.slice(3).join(" ");
+var today = new Date();
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var dateTime = date+' '+time;
 
-searchfunction({ 
-    type: 'artist OR album OR track', 
-    query: 'My search query', 
-    limit: 20 }, 
-    callback
-    );
-spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
-        if (err) {
-          return console.log('Error occurred: ' + err);
-        }
-       
-      console.log(data); 
-      });
-
-var userInput = process.argv[3];
 //App logic 
-function userCommand(userInput){
-    // mkae a decision based on a command
+function userCommand(){
+    // make a decision based on a command
     switch (userInput) {
         case "concert-this":
-            concertThis();
+            bandsInTown(parameter);
             break;
-        case "spotify-this":
-            spotifythissong();
+        case "spotify-this-song":
+            spotifyThisSong(parameter);
             break;
         case "movie-this":
-            movieThis();
+            movieThis(parameter);
             break;
-        case "do-this":
-            doThis(userQuery);
+        case "do-what-it-says":
+            getRandom();
             break;
         default:
-            console.log("I don't understand");
+            console.log("Please Enter a command");
             break;
     }
+};
+
+function bandsInTown(parameter){
+ if (userInput === "concert-this"){
+	var bandName="";
+	for (var i = 3; i < process.argv.length; i++){
+		bandName+=process.argv[i];
+	}
+	console.log(bandName);
+ }else{
+	bandName = parameter;
+ }
+
+var queryUrl = "https://rest.bandsintown.com/artists/"+bandName+"/events?app_id=codingbootcamp";
+
+request(queryUrl, function(error, response, body) {
+  if (!error && response.statusCode === 200) {
+    var JS = JSON.parse(body);
+    for (i = 0; i < JS.length; i++){
+        var dTime = JS[i].datetime;
+        var month = dTime.substring(5,7);
+        var year = dTime.substring(0,4);
+        var day = dTime.substring(8,10);
+        var dateForm = month + "/" + day + "/" + year
+  
+      logResult("\n---------------------------------------------------\n");
+      logResult("Date: " + dateForm);
+      logResult("Name: " + JS[i].venue.name);
+      logResult("City: " + JS[i].venue.city);
+      if (JS[i].venue.region !== ""){
+        logResult("Country: " + JS[i].venue.region);
+      }
+      logResult("Country: " + JS[i].venue.country);
+      logResult("\n---------------------------------------------------\n");
+    }
+  }
+});
 }
 userCommand();
