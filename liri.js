@@ -3,13 +3,12 @@ require("dotenv").config();
 var fs = require("fs");
 //code to pull from key.js file
 var key = require("./key.js");
-//code allows to access keys information
-var spotify = new spotify(key.spotify);
+
 //require moment
 var moment = require("moment");
 //require node-spotify-api
 var Spotify = require("node-spotify-api");
-var spotify = new Spotify(keys.spotify);
+var spotify = new Spotify(key.spotify);
 var request = require("request");
 
 
@@ -46,7 +45,7 @@ function userCommand(){
 
 function bandsInTown(parameter){
  if (userInput === "concert-this"){
-	var bandName="";
+	var bandName="TYler Childers";
 	for (var i = 3; i < process.argv.length; i++){
 		bandName+=process.argv[i];
 	}
