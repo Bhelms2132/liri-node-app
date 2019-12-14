@@ -780,3 +780,2946 @@ Country: United States
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Date: 12/13/2019
+Country: DC
+City: Washington
+
+---------------------------------------------------
+
+Country: United States
+Name: The Anthem
+City: Brooklyn
+Country: NY
+
+---------------------------------------------------
+
+Country: United States
+Name: Brooklyn Steel
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: Brooklyn Steel
+Date: 12/14/2019
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: The Ritz
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: NC
+Country: United States
+Name: The Fillmore Underground
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Date: 12/19/2019
+Country: United States
+Country: GA
+City: Charlotte
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Tabernacle - GA
+Date: 12/22/2019
+City: Atlanta
+Country: United States
+Country: GA
+
+---------------------------------------------------
+
+Date: 12/28/2019
+
+---------------------------------------------------
+
+City: Pikeville
+Name: Appalachian Wireless Arena
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/31/2019
+
+---------------------------------------------------
+
+Name: Appalachian Wireless Arena
+Country: KY
+City: Pikeville
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2020
+City: Dublin
+Name: The Grand Social
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/18/2020
+Name: Manchester Academy 2
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/19/2020
+Name: Saint Luke's
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 01/21/2020
+
+---------------------------------------------------
+
+Name: O2 Shepherd's Bush Empire
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/22/2020
+Name: Doornroosje
+City: Nijmegen
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/24/2020
+Name: Pumpehuset
+City: Copenhagen West
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/25/2020
+Name: Vulkan Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: Slaktkyrkan
+City: Johanneshov
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/28/2020
+Name: FRANNZ Club
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Name: Paradiso Noord
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/16/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: U.S. Cellular Center Asheville
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: US Cellular Center
+Date: 02/23/2020
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: United States
+Country: TN
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/28/2020
+Date: 02/26/2020
+Name: Rupp Arena
+City: Lexington
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Masonic Temple Theater
+City: Detroit
+Date: 02/29/2020
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/04/2020
+
+---------------------------------------------------
+
+Name: Petersen Events Center
+City: Pittsburgh
+Country: United States
+Country: PA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/06/2020
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Infinite Energy Arena
+City: Duluth
+Country: GA
+
+---------------------------------------------------
+
+Name: North Charleston Coliseum & Performing Arts Center
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Country: United States
+City: North Charleston
+Country: SC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Hampton Coliseum
+City: Hampton
+Date: 03/13/2020
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+City: Philadelphia
+Name: The Met Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2020
+Name: The Anthem
+Country: DC
+City: Washington
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/16/2020
+City: Washington
+Name: The Anthem
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/18/2020
+
+---------------------------------------------------
+
+Name: Coca-Cola Coliseum
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/20/2020
+Name: Nationwide Arena
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/21/2020
+Name: Chaifetz Arena
+City: St. Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Landers Center
+Date: 03/22/2020
+Country: MS
+Country: United States
+
+---------------------------------------------------
+
+City: Southaven
+
+---------------------------------------------------
+
+Date: 03/27/2020
+Name: American Airlines Center
+City: Dallas
+Country: United States
+Country: TX
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Frank C. Erwin, Jr., Special Events Center
+City: Austin
+Date: 03/28/2020
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/29/2020
+Name: Smart Financial Center
+City: Sugarland
+Country: United States
+Country: TX
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/01/2020
+Name: Silverstein Eye Centers Arena
+City: Independence
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/03/2020
+
+---------------------------------------------------
+
+City: Chicago
+Country: IL
+Country: United States
+Name: United Center
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/04/2020
+Name: The Armory
+City: Minneapolis
+Country: United States
+Country: MN
+
+---------------------------------------------------
+
+Date: 04/05/2020
+
+---------------------------------------------------
+
+City: Minneapolis
+Name: The Armory
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/09/2020
+Name: Baxter Arena
+Country: NE
+City: Omaha
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2020
+Name: Alliant Energy Center
+City: Madison
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/23/2020
+Name: BOK Center
+Country: OK
+Country: United States
+City: Tulsa
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2020
+City: Denver
+Country: CO
+Name: Pepsi Center
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/28/2020
+Name: Maverik Center
+City: West Valley City
+Country: UT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/29/2020
+Name: Adams Event Center
+City: Missoula
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/01/2020
+Name: Veterans Memorial Coliseum
+Country: OR
+City: Portland
+
+---------------------------------------------------
+
+Country: United States
+Date: 05/02/2020
+
+---------------------------------------------------
+
+City: George
+Name: Gorge Amphitheatre
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/05/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2020
+City: San Francisco
+Name: Bill Graham Civic Auditorium
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/08/2020
+Name: The Forum
+City: Los Angeles
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+Date: 05/15/2020
+
+---------------------------------------------------
+
+Name: TD Garden
+City: Boston
+Country: United States
+Country: MA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Hulu Theater at Madison Square Garden
+Date: 05/16/2020
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/21/2020
+
+---------------------------------------------------
+
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/22/2020
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2020
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/18/2020
+Name: Under The Big Sky Festival
+City: Whitefish
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Brooklyn
+Name: Brooklyn Steel
+Date: 12/14/2019
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Brooklyn Steel
+Date: 12/15/2019
+City: Brooklyn
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+Date: 12/18/2019
+
+---------------------------------------------------
+
+Name: The Ritz
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: The Fillmore Underground
+Country: NC
+City: Charlotte
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Appalachian Wireless Arena
+Date: 12/28/2019
+City: Pikeville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/31/2019
+Name: Appalachian Wireless Arena
+Country: KY
+City: Pikeville
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2020
+City: Dublin
+Name: The Grand Social
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/18/2020
+Name: Manchester Academy 2
+Country: United Kingdom
+City: Manchester
+
+---------------------------------------------------
+
+Date: 01/19/2020
+
+---------------------------------------------------
+
+Country: United Kingdom
+City: Glasgow
+Name: Saint Luke's
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/21/2020
+Name: O2 Shepherd's Bush Empire
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 01/22/2020
+
+---------------------------------------------------
+
+Country: Netherlands
+Name: Doornroosje
+City: Nijmegen
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/24/2020
+Name: Pumpehuset
+City: Copenhagen
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/25/2020
+Name: Vulkan Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: Slaktkyrkan
+City: Johanneshov
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: FRANNZ Club
+Date: 01/28/2020
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+Date: 01/29/2020
+
+---------------------------------------------------
+
+Name: Paradiso Noord
+City: Amsterdam
+
+---------------------------------------------------
+
+Country: Netherlands
+Name: Country Squire Residency
+Date: 02/06/2020
+
+---------------------------------------------------
+
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Nashville
+Date: 02/15/2020
+Name: Country Squire Residency
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/16/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: U.S. Cellular Center Asheville
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: US Cellular Center
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/28/2020
+Name: Rupp Arena
+City: Lexington
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Petersen Events Center
+City: Pittsburgh
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/06/2020
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Infinite Energy Arena
+City: Duluth
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: North Charleston Coliseum & Performing Arts Center
+City: North Charleston
+Country: SC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2020
+Name: Hampton Coliseum
+City: Hampton
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2020
+Name: The Anthem
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/16/2020
+Name: The Anthem
+City: Washington
+Country: United States
+Country: DC
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/18/2020
+Name: Coca-Cola Coliseum
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/20/2020
+Name: Nationwide Arena
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Chaifetz Arena
+City: St Louis
+Country: MO
+Date: 03/21/2020
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/22/2020
+Name:  The Mid-South Fair at Landers Center
+City: Southaven
+Country: United States
+
+---------------------------------------------------
+
+Country: MS
+Date: 03/27/2020
+
+---------------------------------------------------
+
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/28/2020
+Name: Frank C. Erwin, Jr., Special Events Center
+City: Austin
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/29/2020
+Name: Smart Financial Center
+City: Sugarland
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/01/2020
+Name: Silverstein Eye Centers Arena
+City: Independence
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/03/2020
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/04/2020
+Name: The Armory
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2020
+Name: The Armory
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/09/2020
+Name: Baxter Arena
+City: Omaha
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2020
+Name: Alliant Energy Center
+City: Madison
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/23/2020
+Name: BOK Center
+Country: OK
+City: Tulsa
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2020
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/28/2020
+Name: Maverik Center
+City: West Valley City
+Country: UT
+
+---------------------------------------------------
+
+Country: United States
+Date: 04/29/2020
+
+---------------------------------------------------
+
+Name: Adams Event Center
+City: Missoula
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/01/2020
+Name: Veterans Memorial Coliseum
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/02/2020
+Name: Gorge Amphitheatre
+City: Quincy
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/05/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/08/2020
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: TD Garden
+Date: 05/15/2020
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/16/2020
+Name: Hulu Theater at Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2020
+Name: Bridgestone Arena 
+Country: TN
+City: Downtown Nashville
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/22/2020
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/24/2020
+
+---------------------------------------------------
+
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/18/2020
+Name: Under The Big Sky Festival
+City: Whitefish
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Tyler Childers
+Song: Feathered Indians
+Preview: https://p.scdn.co/mp3-preview/5037e9f5c071cb218f00055dcab4088be52e0b3c?cid=4c5c598655654365a5bf1d1765aeed47
+Album: Purgatory
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Country: NY
+Name: Brooklyn Steel
+City: Brooklyn
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: Brooklyn Steel
+Country: NY
+City: Brooklyn
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/18/2019
+City: Raleigh
+Country: NC
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: The Ritz
+Date: 12/19/2019
+Name: The Fillmore Underground
+Country: NC
+City: Charlotte
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/22/2019
+
+---------------------------------------------------
+
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Appalachian Wireless Arena
+Date: 12/28/2019
+City: Pikeville
+Country: United States
+
+---------------------------------------------------
+
+Country: KY
+
+---------------------------------------------------
+
+Date: 12/31/2019
+Name: Appalachian Wireless Arena
+City: Pikeville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2020
+Name: The Grand Social
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/18/2020
+Name: Manchester Academy 2
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/19/2020
+Name: Saint Luke's
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/21/2020
+Name: O2 Shepherd's Bush Empire
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/22/2020
+Name: Doornroosje
+City: Nijmegen
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/24/2020
+Name: Pumpehuset
+City: Copenhagen
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/25/2020
+Name: Vulkan Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: Slaktkyrkan
+Country: Sweden
+City: Johanneshov
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: FRANNZ Club
+Date: 01/28/2020
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Name: Paradiso Noord
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Country Squire Residency
+Date: 02/07/2020
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: Country Squire Residency
+City: Nashville
+Country: United States
+Country: TN
+
+---------------------------------------------------
+
+Date: 02/16/2020
+Name: Country Squire Residency
+
+---------------------------------------------------
+
+City: Nashville
+Country: United States
+Country: TN
+
+---------------------------------------------------
+
+Date: 02/21/2020
+
+---------------------------------------------------
+
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+Date: 02/22/2020
+
+---------------------------------------------------
+
+Name: U.S. Cellular Center Asheville
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: US Cellular Center
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/28/2020
+Name: Rupp Arena
+City: Lexington
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Masonic Temple Theater
+City: Detroit
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Country: MI
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Petersen Events Center
+City: Pittsburgh
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/06/2020
+Name: Spectrum Center
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Infinite Energy Arena
+City: Duluth
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: North Charleston Coliseum & Performing Arts Center
+City: North Charleston
+Country: SC
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/13/2020
+Name: Hampton Coliseum
+City: Hampton
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2020
+Name: The Anthem
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/16/2020
+Name: The Anthem
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/18/2020
+Name: Coca-Cola Coliseum
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/20/2020
+Name: Nationwide Arena
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/21/2020
+Name: Chaifetz Arena
+City: St Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/22/2020
+Name:  The Mid-South Fair at Landers Center
+City: Southaven
+Country: MS
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/27/2020
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/28/2020
+Name: Frank C. Erwin, Jr., Special Events Center
+City: Austin
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/29/2020
+Name: Smart Financial Center
+City: Sugarland
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/01/2020
+Name: Silverstein Eye Centers Arena
+City: Independence
+
+---------------------------------------------------
+
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+Name: United Center
+Date: 04/03/2020
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/04/2020
+Name: The Armory
+Country: MN
+City: Minneapolis
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/05/2020
+
+---------------------------------------------------
+
+Name: The Armory
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/09/2020
+Name: Baxter Arena
+City: Omaha
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2020
+Name: Alliant Energy Center
+City: Madison
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/23/2020
+City: Tulsa
+Name: BOK Center
+Country: OK
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2020
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/28/2020
+Name: Maverik Center
+City: West Valley City
+Country: UT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/29/2020
+Name: Adams Event Center
+City: Missoula
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/01/2020
+Name: Veterans Memorial Coliseum
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/02/2020
+Name: Gorge Amphitheatre
+City: Quincy
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/05/2020
+
+---------------------------------------------------
+
+Name: Bill Graham Civic Auditorium
+Country: CA
+City: San Francisco
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/08/2020
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/15/2020
+Name: TD Garden
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/16/2020
+Name: Hulu Theater at Madison Square Garden
+Country: NY
+City: New York
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2020
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/22/2020
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2020
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/18/2020
+Name: Under The Big Sky Festival
+City: Whitefish
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Tyler Childers
+Preview: https://p.scdn.co/mp3-preview/5037e9f5c071cb218f00055dcab4088be52e0b3c?cid=4c5c598655654365a5bf1d1765aeed47
+Album: Purgatory
+Song: Feathered Indians
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: Brooklyn Steel
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: Brooklyn Steel
+Country: NY
+City: Brooklyn
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: The Ritz
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: The Fillmore Underground
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: The Tabernacle - GA
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/28/2019
+Name: Appalachian Wireless Arena
+City: Pikeville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/31/2019
+Name: Appalachian Wireless Arena
+City: Pikeville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2020
+Name: The Grand Social
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/18/2020
+Name: Manchester Academy 2
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/19/2020
+Name: Saint Luke's
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/21/2020
+Name: O2 Shepherd's Bush Empire
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/22/2020
+Name: Doornroosje
+City: Nijmegen
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/24/2020
+Name: Pumpehuset
+City: Copenhagen
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/25/2020
+Name: Vulkan Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: Slaktkyrkan
+City: Johanneshov
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/28/2020
+Name: FRANNZ Club
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Name: Paradiso Noord
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+Date: 02/06/2020
+
+---------------------------------------------------
+
+Name: Country Squire Residency
+Country: TN
+City: Nashville
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/16/2020
+Name: Country Squire Residency
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: U.S. Cellular Center Asheville
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: US Cellular Center
+City: Asheville
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Knoxville Civic Auditorium and Coliseum
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/28/2020
+Name: Rupp Arena
+City: Lexington
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Masonic Temple Theater
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Petersen Events Center
+City: Pittsburgh
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/06/2020
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Infinite Energy Arena
+City: Duluth
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: North Charleston Coliseum & Performing Arts Center
+City: North Charleston
+Country: SC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2020
+Name: Hampton Coliseum
+City: Hampton
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2020
+Name: The Anthem
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/16/2020
+Name: The Anthem
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/18/2020
+Name: Coca-Cola Coliseum
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/20/2020
+Name: Nationwide Arena
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/21/2020
+Name: Chaifetz Arena
+City: St Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/22/2020
+Name:  The Mid-South Fair at Landers Center
+City: Southaven
+Country: MS
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/27/2020
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/28/2020
+Name: Frank C. Erwin, Jr., Special Events Center
+
+---------------------------------------------------
+
+City: Austin
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/29/2020
+Name: Smart Financial Center
+City: Sugarland
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/01/2020
+Name: Silverstein Eye Centers Arena
+City: Independence
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/03/2020
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/04/2020
+Name: The Armory
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2020
+Name: The Armory
+Country: MN
+City: Minneapolis
+
+---------------------------------------------------
+
+Date: 04/09/2020
+Country: United States
+City: Omaha
+
+---------------------------------------------------
+
+Name: Baxter Arena
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2020
+Name: Alliant Energy Center
+City: Madison
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/23/2020
+City: Tulsa
+Country: OK
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2020
+Name: Pepsi Center
+City: Denver
+Name: BOK Center
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Maverik Center
+City: West Valley City
+Date: 04/28/2020
+Country: UT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/29/2020
+Name: Adams Event Center
+Country: MT
+City: Missoula
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/01/2020
+Name: Veterans Memorial Coliseum
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/02/2020
+Name: Gorge Amphitheatre
+City: Quincy
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/05/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2020
+Name: Bill Graham Civic Auditorium
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/08/2020
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/15/2020
+Name: TD Garden
+City: Boston
+Country: MA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/16/2020
+Name: Hulu Theater at Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2020
+Name: Bridgestone Arena 
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+Name: Bridgestone Arena 
+
+---------------------------------------------------
+
+Date: 05/22/2020
+City: Downtown Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2020
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/18/2020
+Name: Under The Big Sky Festival
+City: Whitefish
+Country: MT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Tyler Childers
+Song: Feathered Indians
+Preview: https://p.scdn.co/mp3-preview/5037e9f5c071cb218f00055dcab4088be52e0b3c?cid=4c5c598655654365a5bf1d1765aeed47
+Album: Purgatory
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+Rotten Tomatoes Rating: 67%
+Release Year: 2009
+IMDB Rating: 7.8
+Language: English, Mohawk
+Country: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+

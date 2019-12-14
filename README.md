@@ -1,16 +1,16 @@
 # liri-node-app
 Objectives for proper Readme
 
-1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
+Link to LIRI-NODE-APP
+https://youtu.be/H8btsIC2JAk
 
-2. Give a high-level overview of how the app is organized
+This app is able to take input such as a song concert and output a preloaded song and singers concerts location. It can alos out put a preloaded movie as well.  The following comands will need to be entered when trying to retrieve pre-loaded songs, singer and movie.
 
-3. Give start-to-finish instructions on how to run the app
+node liri.js concert-this
 
-4. Include screenshots, gifs or videos of the app functioning
+node liri.js movie-this
 
-5. Contain a link to a deployed version of the app
+node liri.js spotify-this-song
 
-6. Clearly list the technologies used in the app
 
-7. State your role in the app development
+
