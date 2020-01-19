@@ -1,9 +1,16 @@
 # liri-node-app
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will is a command line node app that takes in parameters and gives you back data. 
 
+## Link to LIRI-NODE-APP
+https://youtu.be/H8btsIC2JAk
+
+## Technologies used
+Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
+
+
 ## How LIRI works
 
-Open app then in the command terminal enter command (node liri.js concert-this).
+Open app then in the command terminal enter command (node liri.js concert-this "artist/band name here").
 
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
 
@@ -22,7 +29,7 @@ The user can change the bands name on line 48 in liri.js file to their desired s
 
 
 
-Command (node liri.js movie-this)
+Command (node liri.js movie-this  "movie name here")
 This will output the following information to your terminal/bash window:
   * Title of the movie.
   * Year the movie came out.
@@ -50,11 +57,8 @@ The album that the song is from
 
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 ![image](https://user-images.githubusercontent.com/52431116/72690660-92ee3900-3aec-11ea-9dfb-74fcdb2d179f.png)
-## Technologies used
-Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
 
-## Link to LIRI-NODE-APP
-https://youtu.be/H8btsIC2JAk
+
 
 
 
