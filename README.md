@@ -20,7 +20,21 @@ The user can change the bands name on line 48 in liri.js file to their desired s
 
 ![image](https://user-images.githubusercontent.com/52431116/72690050-41db4680-3ae6-11ea-80c4-ad30addade68.png)
 
-When the users add "node liri.js movie-this" to the comand terminal, Liri will return 
+
+
+Command (node liri.js movie-this)
+This will output the following information to your terminal/bash window:
+  * Title of the movie.
+  * Year the movie came out.
+  * IMDB Rating of the movie.
+  * Rotten Tomatoes Rating of the movie.
+  * Country where the movie was produced.
+  * Language of the movie.
+  * Plot of the movie.
+  * Actors in the movie.
+
+
+If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 ![image](https://user-images.githubusercontent.com/52431116/72690249-794af280-3ae8-11ea-8f33-0d59a324b49d.png)
 ## Technologies used
 Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
