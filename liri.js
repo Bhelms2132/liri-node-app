@@ -45,7 +45,7 @@ function userCommand(){
 
 function bandsInTown(parameter){
  if (userInput === "concert-this"){
-	var bandName="TYler Childers";
+	var bandName="Tyler Childers";
 	for (var i = 3; i < process.argv.length; i++){
 		bandName+=process.argv[i];
 	}
