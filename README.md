@@ -1,10 +1,16 @@
 # liri-node-app
-Objectives for proper Readme
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will is a command line node app that takes in parameters and gives you back data. 
 
-Link to LIRI-NODE-APP
+## How LIRI works
+
+
+## Technologies used
+Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
+
+## Link to LIRI-NODE-APP
 https://youtu.be/H8btsIC2JAk
 
-This app is able to take input such as a song concert and output a preloaded song and singers concerts location. It can alos out put a preloaded movie as well.  The following comands will need to be entered when trying to retrieve pre-loaded songs, singer and movie.
+
 
 node liri.js concert-this
 
