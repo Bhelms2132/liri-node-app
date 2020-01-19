@@ -5,7 +5,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 https://youtu.be/H8btsIC2JAk
 
 ## Technologies used
-Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
+Javascript, Node.js, NPM packages (axios, dotenv, moment, node-spotify-api)
 
 
 ## How LIRI works
