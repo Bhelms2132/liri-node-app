@@ -36,6 +36,20 @@ This will output the following information to your terminal/bash window:
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 ![image](https://user-images.githubusercontent.com/52431116/72690249-794af280-3ae8-11ea-8f33-0d59a324b49d.png)
+
+Enter command node liri.js spotify-this-song "song name here"
+This will show the following information about the song in your terminal/bash window
+
+Artist(s)
+
+The song's name
+
+A preview link of the song from Spotify
+
+The album that the song is from
+
+If no song is provided then your program will default to "The Sign" by Ace of Base.
+![image](https://user-images.githubusercontent.com/52431116/72690660-92ee3900-3aec-11ea-9dfb-74fcdb2d179f.png)
 ## Technologies used
 Javascript, Node.js NPM packages (axios, dotenv, moment, node-spotify-api)
 
