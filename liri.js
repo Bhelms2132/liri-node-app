@@ -45,7 +45,7 @@ function userCommand(){
 
 function bandsInTown(parameter){
  if (userInput === "concert-this"){
-	var bandName="Tyler Childers";
+	var bandName="";
 	for (var i = 3; i < process.argv.length; i++){
 		bandName+=process.argv[i];
 	}
@@ -82,7 +82,7 @@ request(queryUrl, function(error, response, body) {
 function spotifyThisSong(parameter) {
   var searchTrack;
    if (parameter === "") {
-    searchTrack = "Feathered Indians";
+    searchTrack = "";
   } else {
     searchTrack = parameter;
   }
@@ -106,7 +106,7 @@ function spotifyThisSong(parameter) {
 function movieThis(parameter) {
   var findMovie;
   if (parameter === "") {
-    findMovie = "Mr Nobody";
+    findMovie = "";
   } else {
     findMovie = parameter;
   };
