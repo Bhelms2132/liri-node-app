@@ -65,7 +65,7 @@ If no song is provided then your program will default to "The Sign" by Ace of Ba
 
 
 
-node liri.js spotify-this-song
+
 
 
 
